@@ -1,0 +1,5 @@
+aiogram
+psycopg2-binary
+django
+apscheduler
+python-dotenv
